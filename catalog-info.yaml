@@ -18,7 +18,6 @@ metadata:
     backstage.io/techdocs-ref: dir:.
     lighthouse.com/website-url: https://backstage.io
 spec:
-spec:
   type: url
   targets:
     - javAscript:alert()
